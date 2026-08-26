@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "563866046778",
+    "project_id": "fruite-hub-bafed",
+    "storage_bucket": "fruite-hub-bafed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563866046778:android:34f452be4f25c3fdad0003",
+        "android_client_info": {
+          "package_name": "com.example.fruit_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPC8ql860IxWZ1Ci4_CXWqMdB7fdk09Uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563866046778:android:ae72f1e1db6856a9ad0003",
+        "android_client_info": {
+          "package_name": "com.example.fruites_hub_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPC8ql860IxWZ1Ci4_CXWqMdB7fdk09Uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
